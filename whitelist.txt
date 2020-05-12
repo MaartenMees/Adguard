@@ -2,3 +2,4 @@ tinyurl.com
 whatismyipaddress.com
 luminati.io
 nordvpn.com
+dnsstuff.com
